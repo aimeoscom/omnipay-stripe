@@ -2,7 +2,6 @@
 
 **Stripe driver for the Omnipay PHP payment processing library**
 
-[![Build Status](https://travis-ci.org/thephpleague/omnipay-stripe.png?branch=master)](https://travis-ci.org/thephpleague/omnipay-stripe)
 [![Latest Stable Version](https://poser.pugx.org/omnipay/stripe/version.png)](https://packagist.org/packages/omnipay/stripe)
 [![Total Downloads](https://poser.pugx.org/omnipay/stripe/d/total.png)](https://packagist.org/packages/omnipay/stripe)
 
